@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>保存网页</title>
+      <link href="/2022/05/08/save-pages/"/>
+      <url>/2022/05/08/save-pages/</url>
+      
+        <content type="html"><![CDATA[<h1 id="如何“永久”保存网页"><a href="#如何“永久”保存网页" class="headerlink" title="如何“永久”保存网页"></a>如何“永久”保存网页</h1><h2 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h2><p>最近在研究一个问题，搜索相关信息时，发现一个网站上有相关内容，但是发现信息有误，因此，联系网站作者，指出错误。第二天再次浏览该网页，发现已经修改。</p><p>引申出一个问题，网站可以随时修改，那么如果我们在网上搜索到一个信息，如何保存网页当时的状态？</p><h2 id="分析问题"><a href="#分析问题" class="headerlink" title="分析问题"></a>分析问题</h2><ol><li>使用 关键字“保存网页”，“网页快照” 进行搜索</li><li>查找到 “网页时光机 [^2]” 这个网站及其相关文章[^3]</li><li>进一步查询，该 网站保存信息的权威性</li><li>找到相关报道 [^1], 结合 维基百科中对该网站的描述，说明该网站保存的信息具有一定权威性</li></ol><h2 id="解决问题"><a href="#解决问题" class="headerlink" title="解决问题"></a>解决问题</h2><h3 id="第一步，注册相关信息"><a href="#第一步，注册相关信息" class="headerlink" title="第一步，注册相关信息"></a>第一步，注册相关信息</h3><ol><li>登录：<a href="https://web.archive.org/">https://web.archive.org/</a></li><li>注册用户</li><li>安装chrome 插件</li></ol><h3 id="第二步，保存网页"><a href="#第二步，保存网页" class="headerlink" title="第二步，保存网页"></a>第二步，保存网页</h3><h4 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h4><ol><li>复制需要保存的网页地址</li><li>粘贴到插件的输入框中</li><li>点击保存（可以额外选择保存外部链接或者保存网页截图）</li></ol><p>​       <img src="/2022/05/08/save-pages/image-20220508093438735.png" class="" title="image-20220508093438735"></p><h4 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h4><ol><li>在 主页中点击 web</li><li>输入需要保存的网址</li><li>点击 save</li><li>再次勾选其他选项</li><li>保存成功</li><li>查看保存的网页及其截图</li></ol><img src="/2022/05/08/save-pages/image-20220508093724859.png" class="" title="image-20220508093724859"><img src="/2022/05/08/save-pages/image-20220508093759260.png" class="" title="image-20220508093759260"><img src="/2022/05/08/save-pages/image-20220508093830286.png" class="" title="image-20220508093830286"><h4 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h4><ol><li><p>使用谷歌在线文档的方式，批量保存网页</p></li><li><p>注册谷歌账户 </p></li><li><p>在 <a href="https://docs.google.com/">https://docs.google.com/</a> 中创建新的 excel 表格</p></li><li><p>在表格 A 列 填写需要保存的网址</p></li><li><p>给谷歌表格中对应的列添加 链接</p><ol><li>insert -》 link-》sheets and named ranges -&gt; select a range of cells </li><li>或者直接选择整个 sheet 。</li></ol></li><li><p>将 刚才生成的 链接复制到 archive 中</p></li><li><p>执行保存操作</p><img src="/2022/05/08/save-pages/image-20220508105758993.png" class="" title="image-20220508105758993"><img src="/2022/05/08/save-pages/image-20220508105903348.png" class="" title="image-20220508105903348"></li></ol><p>​    <img src="/2022/05/08/save-pages/image-20220508105927261.png" class="" title="image-20220508105927261"></p><img src="/2022/05/08/save-pages/image-20220508105941748.png" class="" title="image-20220508105941748"><img src="/2022/05/08/save-pages/image-20220508110011528.png" class="" title="image-20220508110011528"><img src="/2022/05/08/save-pages/image-20220508110023525.png" class="" title="image-20220508110023525"><img src="/2022/05/08/save-pages/image-20220508110051570.png" class="" title="image-20220508110051570"><img src="/2022/05/08/save-pages/image-20220508110138508.png" class="" title="image-20220508110138508"><img src="/2022/05/08/save-pages/image-20220508110347126.png" class="" title="image-20220508110347126"><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><ol><li>若网页多次保存成功之后，可对比保存的多个版本是否发生改动</li><li>输入需要查询的网址</li><li>分别选择不同时间保存的网页</li><li>点击 changes ，查看网页是否发生改动（标黄区域为改动部分）</li></ol>  <img src="/2022/05/08/save-pages/image-20220508112522991.png" class="" title="image-20220508112522991"><img src="/2022/05/08/save-pages/image-20220508112811331.png" class="" title="image-20220508112811331"><h2 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h2><p>[^1]:<a href="http://www.chinaarchives.cn/mobile/category/detail/id/4547.html">美国：互联网“时光机”可作为合法的证据来源 - 国际视野 - 中国档案网</a></p><p>[^2]:<a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E7%AB%99%E6%97%B6%E5%85%89%E6%9C%BA">网站时光机 - 维基百科，自由的百科全书</a></p><p>[^3]:<a href="https://cn.gijn.org/2021/05/21/wayback-machine/">如何使用“网站时光机”进行在线调查？ - 全球深度报道网</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/05/04/hello-world/"/>
+      <url>/2022/05/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
